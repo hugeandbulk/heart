@@ -43,7 +43,9 @@ where n = 1000+, is paid
 
 ——
 
-Purity, in unit 
+purity, in unit 
+
+hearty in unit 
 
 hicks, in degree °K 
 
