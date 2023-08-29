@@ -16,7 +16,7 @@ h) iamsenior
 
 **h)** — it can count, n number of users worldwide or customers. 
 
-h) yokel — is a bot account. 
+h) heart — is a bot account. 
 
 h) heart, is a company account. 
 
@@ -48,6 +48,16 @@ Purity, in unit
 hicks, in degree °K 
 
 yokel, in unit 
+
+dull, in unit 
+
+buff, in unit
+
+beep, in unit 
+
+null
+
+fool, in unit 
 
 trance (overall), in unit 
 
