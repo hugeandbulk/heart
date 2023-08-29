@@ -9,3 +9,5 @@ for:— (to send yours beloved)
 * story 
 * emotions 
 * anger 
+
+also, for meeting up with, location.
