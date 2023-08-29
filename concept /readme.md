@@ -1,6 +1,6 @@
 **concept**
 
-h) — is directive or message directive. 
+h) — is directive or heart directive. 
 
 h/ — for the account creation purpose. 
 
